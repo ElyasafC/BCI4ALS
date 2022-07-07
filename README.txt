@@ -1,7 +1,5 @@
 # BCI4ALS- Team 35:
 
-## README
-
 This is the code repository for the BCI4ALS, team 35.
 The code is a fork of Asaf Harel(harelasa@post.bgu.ac.il) basic code for the course BCI-4-ALS which
 took place during 2021-2022. You are free to use, change, adapt and
@@ -110,7 +108,7 @@ The general structure of the recordings directory are as follows:
 
 For more info, see the documentation located in each code file and the docs file in the documents folder.
 
-### Trobuleshooting
+### Troubleshooting
 
 ### The dongle is plugged in but cannot connect to the headset.
 1. Try replacing the batteries.
